@@ -1,0 +1,35 @@
+         body{
+          background-color: rgb(25,25,25);
+          color:white;
+          font-family: Arial;
+        }
+        .title{
+          font-weight: bold;
+          font-size: xx-large;
+      
+        }
+        .img{
+          height: 50px;
+          
+        }
+        .button{
+          background-color: transparent;
+          border: 3px solid white;
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+          margin-right:10px ;
+        }
+        .js-result{
+          font-weight: bold;
+          font-size: 20px;
+        }
+        .js-moves{
+          margin-bottom: 40px;
+        }
+        .reset-button,
+        .play-button{
+          font-size: 15px;
+          padding: 8px 10px;
+          border-color: azure;
+        }
